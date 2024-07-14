@@ -1,0 +1,17 @@
+.bg-cover {
+    background-image: url('../image/hospital.jpg'); /* Path ke gambar */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh; /* Tinggi penuh viewport */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+   
+}
+
+
+
+
+
